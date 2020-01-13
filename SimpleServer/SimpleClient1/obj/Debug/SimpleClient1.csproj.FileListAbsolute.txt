@@ -1,0 +1,9 @@
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\bin\Debug\SimpleClient1.exe.config
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\bin\Debug\SimpleClient1.exe
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\bin\Debug\SimpleClient1.pdb
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\obj\Debug\SimpleClient1.csprojAssemblyReference.cache
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\obj\Debug\SimpleClient1.Properties.Resources.resources
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\obj\Debug\SimpleClient1.csproj.GenerateResource.cache
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\obj\Debug\SimpleClient1.csproj.CoreCompileInputs.cache
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\obj\Debug\SimpleClient1.exe
+E:\YEAR 2\SimpleServer\SimpleServer\SimpleClient1\obj\Debug\SimpleClient1.pdb

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleClient.ClientForm">
+    <Position X="20.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="SimpleClient.ClientForm.UpdateChatWindowDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClientForm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAIEEAgACIAAACARAYAAAAAHBAAAIAIQA=</HashCode>
+      <FileName>ClientForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleClient.SimpleClient">
+    <Position X="24.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAEIABAAAAEEAAAKAAOAAEAAAAJUBgCAAQYEI=</HashCode>
+      <FileName>SimpleClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleClient.SnakeGame">
+    <Position X="22.5" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="SimpleClient.SnakeGame.UpdateSnakeDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SnakeGame.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACQEAADAASgAAUAMQACICAAiAAIAKkgAAAACBAAAAAA=</HashCode>
+      <FileName>SnakeGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

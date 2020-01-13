@@ -1,0 +1,16 @@
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.pdb
+C:\Users\nihar\OneDrive\Desktop\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.csprojAssemblyReference.cache
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\bin\Debug\ServerForm.exe.config
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\bin\Debug\ServerForm.exe
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\bin\Debug\ServerForm.pdb
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.csprojAssemblyReference.cache
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.Properties.Resources.resources
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.csproj.GenerateResource.cache
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.exe
+C:\Users\nihar\OneDrive\Desktop\New folder\SimpleServer\SimpleServer\ServerForm\obj\Debug\ServerForm.pdb
